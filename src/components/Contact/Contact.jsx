@@ -20,10 +20,7 @@ for your success in the digital world.</span>
             <label htmlFor="">Full name *</label>
             <input className={css.contactinp}  required type="text" name="" id=""  placeholder='Enter Your Name'/>
             </div>
-            <div className={css.line}>
-            <label htmlFor="">Your Email *</label>
-            <input className={css.contactinp}  required  type="email" name="" id="" placeholder='Enter Your Email' />
-            </div>
+            
         </div>
         <div className={css.set}>
             <div className={css.line}>
